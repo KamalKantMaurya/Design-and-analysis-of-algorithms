@@ -1,3 +1,4 @@
+//kamal kant
 #include<stdio.h>
 int main()
 {
